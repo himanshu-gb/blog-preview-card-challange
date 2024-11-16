@@ -21,7 +21,7 @@ body{
     padding: 20px;
     border-radius: 20px;
     box-shadow: 7px 7px 0px var(--Black);
-    transition: box-shadow 1s ease;
+    transition: box-shadow 0.3s ease;
 }
 
 .blog:hover{
@@ -50,6 +50,12 @@ body{
 
 .blog-title{
     font-weight: 800;
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.blog-title:hover{
+    color: var(--Yellow);
 }
 
 .blog-profile{
