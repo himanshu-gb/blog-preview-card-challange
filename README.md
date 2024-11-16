@@ -1,16 +1,34 @@
-This is the solution to the [QR Code Componenet by Frontend Mentor] (https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
+This is the solution to the [blog preview card challenge](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS)
 
-# Frontend Mentor - Blog preview card
+In this challenge I've to build out this blog card component and get it looking as close to the design as possible.
 
-![Design preview for the Blog preview card coding challenge](./preview.jpg)
+![challange](./preview.jpg)
 
-## Welcome! 👋
+And i've buit it like this:
 
-Thanks for checking out this front-end coding challenge.
-
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+![challange](./output.png)
 
 
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
+# Built with
 
-**Have fun building!** 🚀
+Built with
+-Sementic HTML5 markup
+-CSS
+-flexbox
+-css transition
+-and, Style Componenets
+
+# What I learned
+
+- css transition
+- css hover
+- css box shadow
+- :root property
+- hand dirty on inspecting over the browser for overall look and feel of the interfacte and all.
+
+# Useful Resources
+
+I have found [MDN](https://developer.mozilla.org/en-US/) as best resource to go with it, highly helpful.
+
+
+**Having fun in building!** 🚀
