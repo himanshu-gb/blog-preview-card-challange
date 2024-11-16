@@ -11,12 +11,11 @@ And i've buit it like this:
 
 # Built with
 
-Built with
--Sementic HTML5 markup
--CSS
--flexbox
--css transition
--and, Style Componenets
+- Sementic HTML5 markup
+- CSS
+- flexbox
+- css transition
+- and, Style Componenets
 
 # What I learned
 
