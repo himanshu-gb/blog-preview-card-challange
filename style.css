@@ -20,6 +20,12 @@ body{
     max-width: 335px;
     padding: 20px;
     border-radius: 20px;
+    box-shadow: 7px 7px 0px var(--Black);
+    transition: box-shadow 1s ease;
+}
+
+.blog:hover{
+    box-shadow: 10px 10px 0px var(--Black);
 }
 
 .blog img {
