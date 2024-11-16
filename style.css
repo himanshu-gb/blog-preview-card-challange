@@ -1,0 +1,26 @@
+:root {
+    --Yellow: hsl(47, 88%, 63%);
+    --White: hsl(0, 0%, 100%);
+    --Gray: hsl(0, 0%, 42%);
+    --Black: hsl(0, 0%, 7%);
+}
+
+body{
+    background-color: var(--Yellow);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.blog {
+    background-color: var(--White);
+    max-width: 335px;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.blog img {
+    border-radius: 20px;
+}
